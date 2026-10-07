@@ -1,0 +1,9 @@
+modo,N,p,param,t_seq,t_par,t_parte_seq
+desbalance,40000,1,guided,0.082172,0.082967,0
+desbalance,40000,2,guided,0.082172,0.045622,0
+desbalance,40000,3,guided,0.082172,0.028227,0
+desbalance,40000,4,guided,0.082172,0.023504,0
+desbalance,40000,5,guided,0.082172,0.019256,0
+desbalance,40000,6,guided,0.082172,0.016441,0
+desbalance,40000,7,guided,0.082172,0.014322,0
+desbalance,40000,8,guided,0.082172,0.014050,0

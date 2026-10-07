@@ -1,0 +1,37 @@
+/capturas/
+/entrega/
+*.tex
+*.pdf
+*.zip
+
+# --- Binarios compilados (se regeneran con `make`) ---
+/lab12
+/reto/lab12
+*.o
+*.exe
+
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# --- Python ---
+__pycache__/
+*.pyc
+
+# --- Carpetas temporales ---
+/demo_graficas/
+
+# --- Sistema / editores ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
